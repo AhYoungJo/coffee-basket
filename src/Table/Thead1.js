@@ -1,9 +1,3 @@
-
-
-// import React, { Component } from "react";
-
-
-
 const Thead = ({th1, th2, th3, th4}) => {
     return(
         <thead className="Thead thead1">
@@ -20,14 +14,3 @@ const Thead = ({th1, th2, th3, th4}) => {
 
 export default Thead;
 
-
-
-// class Thead extends Component {
-//     render() {
-//       return (
-//         <div>
-          
-//         </div>
-//       )
-//     }
-// }
