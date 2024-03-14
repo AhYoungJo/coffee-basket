@@ -69,8 +69,5 @@ const Table = () => {
     )
 }
 
-// class Table extends Component {
-//     render() {
-//       return (import React, { Component, useState } from "react";
 
 export default Table;
